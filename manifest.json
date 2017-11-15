@@ -1,0 +1,34 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js"
+	],
+	"game": [
+		"bin-debug/data/element/BaseElement.js",
+		"bin-debug/data/PropLogic.js",
+		"bin-debug/Main.js",
+		"bin-debug/data/ElementTypeParse.js",
+		"bin-debug/data/GameBackGround.js",
+		"bin-debug/data/GameData.js",
+		"bin-debug/data/LevelGameDataParse.js",
+		"bin-debug/data/LevelRequire.js",
+		"bin-debug/data/LinkLogic.js",
+		"bin-debug/data/MapControl.js",
+		"bin-debug/data/MapDataParse.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/GameLogic.js",
+		"bin-debug/data/element/GameElement.js",
+		"bin-debug/data/element/LevelRequireElement.js",
+		"bin-debug/event/ElementViewManageEvent.js",
+		"bin-debug/view/ElementView.js",
+		"bin-debug/view/ElementViewManage.js",
+		"bin-debug/view/GameOverPanel.js",
+		"bin-debug/view/LevelElementView.js",
+		"bin-debug/view/LevelReqViewManage.js",
+		"bin-debug/view/PropView.js",
+		"bin-debug/view/PropViewManage.js"
+	]
+}
